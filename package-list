@@ -1,0 +1,4 @@
+com.github.eugeneheen.mangosteen.jdbctemplate
+com.github.eugeneheen.mangosteen.jdbctemplate.config
+com.github.eugeneheen.mangosteen.jdbctemplate.repository
+com.github.eugeneheen.mangosteen.jdbctemplate.repository.impl
